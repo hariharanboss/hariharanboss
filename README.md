@@ -10,17 +10,37 @@ I'm passionate about building projects with AI-assisted development, exploring w
 
 - 🤖 Artificial Intelligence
 - 💻 Full-Stack Web Development
-- 🔐 Web Security (kinda)
+- 🔐 Web Security (still learning 😄)
 - 🐧 Linux
 - 🌍 Open Source
 
 ---
 
-### ⚡ A few things about me
+### ⚡ A Few Things About Me
 
-- 💡 I love turning ideas into real projects.(A little 😅)
-- 🚀 I enjoy learning by building.
+- 💡 I enjoy turning ideas into real projects.
+- 🚀 I learn best by building.
 - 📚 Every project teaches me something new.
+
+---
+
+### 🤖 Fun Fact
+
+Most of my projects start with AI-assisted development, but I make it a point to understand what I'm building along the way.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hari-haran-s-245b64355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hariharan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://t.me/hariogram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@hariogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
